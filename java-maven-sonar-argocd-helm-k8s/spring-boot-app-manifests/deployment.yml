@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: schauhan0055/ultimate-cicd:11
         ports:
-        - containerPort: 8081
+        - containerPort: 8080
